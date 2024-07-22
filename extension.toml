@@ -1,0 +1,7 @@
+id = "quiet_light"
+name = "Quiet Light"
+schema_version = 1
+version = "0.0.1"
+authors = ["Isabella Harker <harkerisabella@gmail.com>"]
+description = "Quiet Light theme dupe for Zed, ported from VSCode."
+repository = "https://github.com/izzyharker/quiet_light"
