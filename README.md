@@ -1,1 +1,1 @@
-*In progress* Quiet Light theme dupe for Zed, ported from VSCode.
+VSCode Quiet Light theme for Zed.
