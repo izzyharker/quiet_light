@@ -53,7 +53,7 @@
         "scrollbar.thumb.border": "#414868ff",
         "scrollbar.track.background": "#f5f5f5a0",
         "scrollbar.track.border": "#f5f5f5ff",
-        "editor.foreground": "#292929ff",
+        "editor.foreground": "#013300ff",
         "editor.background": "#f5f5f5ff",
         "editor.gutter.background": "#f5f5f5ff",
         "editor.subheader.background": "#f3f3f3ff",
@@ -105,7 +105,7 @@
         "deleted.background": "#54051bff",
         "deleted.border": "#72092aff",
         "error": "#f82871ff",
-        "error.background": "#54051bff",
+        "error.background": "#fa186170",
         "error.border": "#72092aff",
         "hidden": "#292929ff",
         "hidden.background": "#262933ff",
@@ -135,7 +135,7 @@
         "unreachable.background": "#262933ff",
         "unreachable.border": "#2b2f38ff",
         "warning": "#902927ff",
-        "warning.background": "#5c5014ff",
+        "warning.background": "#eab10780",
         "warning.border": "#796b26ff",
         "players": [
           {
